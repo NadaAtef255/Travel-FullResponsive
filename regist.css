@@ -1,0 +1,30 @@
+.book{
+    background: #f9f9f9;
+    padding: 50px;
+}
+.main-text h1{
+    text-align: center;
+    text-shadow: 0px 1px 1px black;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.main-text h1 span{
+    color: #ffa500;
+}
+
+.book .row form{
+    border-radius: 5px;
+    
+}
+.book .submit{
+    width: 160px;
+    font-size: 30px;
+    font-weight: 550;
+    background: #ffa500;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    margin-top: 10px;
+    transition: 0.5s;
+    
+}
